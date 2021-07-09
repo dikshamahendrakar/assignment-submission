@@ -1,4 +1,4 @@
-//Day-3 JS Essentials Assignment 2 by Amit Sharma
+//Day-3 JS Essentials Assignment 2
 
 // Print Buzz Fizz Program without using mod
 
