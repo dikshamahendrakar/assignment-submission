@@ -1,4 +1,4 @@
-//Day-3 JS Essentials Assignment 3 by Amit Sharma
+//Day-3 JS Essentials Assignment 3
 
 //Print Palindrome words from a string
 
